@@ -1,1 +1,5 @@
 streamlit
+
+python-telegram-bot==22.1
+flask 
+requests
